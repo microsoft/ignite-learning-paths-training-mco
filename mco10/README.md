@@ -37,7 +37,7 @@ These instructions consist of the steps you should go through in preparing to pr
 
 - This guide
 - [Powerpoint Presentation that includes Speaker Notes](https://globaleventcdn.blob.core.windows.net/assets/mco/mco10/mco10.pptx)
-- [Demo/Lab Instructions](https://globaleventcdn.blob.core.windows.net/assets/mco/mco10/MCO 10 LAB NOTES-Draft1.docx)
+- [Demo Lab Instructions](https://globaleventcdn.blob.core.windows.net/assets/mco/mco10/MCO%2010%20LAB%20NOTES-Draft1.docx)
 - [Full Length Recording of Presentation](https://globaleventcdn.blob.core.windows.net/assets/mco/mco10/MCO-10-RunThrough.mp4)
 - [Director's Cut of Presentation](https://globaleventcdn.blob.core.windows.net/assets/mco/mco10/MCO-10-Director-Cut.mp4)
 
