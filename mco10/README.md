@@ -40,7 +40,7 @@ These instructions consist of the steps you should go through in preparing to pr
 - [Demo Lab Instructions](https://globaleventcdn.blob.core.windows.net/assets/mco/mco10/MCO%2010%20LAB%20NOTES-Draft1.docx)
 - [Full Length Recording of Presentation](https://globaleventcdn.blob.core.windows.net/assets/mco/mco10/MCO-10-RunThrough.mp4)
 - [Director's Cut of Presentation](https://globaleventcdn.blob.core.windows.net/assets/mco/mco10/MCO-10-Director-Cut.mp4)
-
+- [Ignite 2019 Session Presentation](https://globaleventcdn.blob.core.windows.net/assets/mco/mco10/MCO_10_IGNITE.mp4)
 
 ### Deployment
 
