@@ -1,6 +1,10 @@
-# Securing IaaS Virtual Machines
+# MCO11: Securing IaaS Virtual Machines
+
+![Learning Path](https://img.shields.io/badge/Learning%20Path-MCO-fe5e00?logo=microsoft) 
+
 
 ## Session Abstract
+
 This 20 minute theatre session provides an overview of steps that you can take to improve the security posture of Azure IaaS VMs, including secure administration practices, security configuraiton management, as well as being notified of critical security events.
 
 ## Session Story

@@ -1,4 +1,7 @@
-# Azure Governance and Management
+# MCO20: Azure Governance and Management
+
+![Learning Path](https://img.shields.io/badge/Learning%20Path-MCO-fe5e00?logo=microsoft) 
+
 
 ## Session Abstract
 Tailwind Traders' deployments are ocuring in an ad hoc manner, primarily driven by lack of protocol and unapproved decisions by various operators or employees. Some deployments even violate the organization's compliance obligations, such as being deployed in a manner that violates PCI DSS rules. After bringing their existing IaaS VM fleet under control, Tailwind Traders  wants to ensure that future deployments comply with policy and organizational requirements. In this session, walk thruogh the processes and technologies that will keep Tailwind Trader's deployments in good standing with the help of Azure Blueprints, Azure Policy, Locks and more.
