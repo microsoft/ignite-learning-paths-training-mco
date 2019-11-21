@@ -1,6 +1,9 @@
-# IaaS VM Operations
+# MCO10: IaaS VM Operations
+
+![Learning Path](https://img.shields.io/badge/Learning%20Path-MCO-fe5e00?logo=microsoft) 
 
 ## Session Abstract
+
 In recent months, Tailwind Traders has been having issues with keeping their sprawling IaaS VM deployment under control, leading to mismanaged resources and inefficient processes. In this session, look into how Tailwind Traders can ensure their VMs are properly managed and maintained with the same care in Azure as they were in Tailwind Trader's on-premises data centers.
 
 ## Session Story
