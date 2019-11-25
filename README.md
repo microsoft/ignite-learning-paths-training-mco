@@ -28,7 +28,7 @@ In this session, look into how Tailwind Traders can ensure their VMs are properl
 
 ### [MCO11: Securing Azure IaaS virtual machines](./mco11/README.md) 
 
-In this session, learn the top five things that you can do to improve the security posture of your Azure IaaS VMs, including secure administration practices, security configuration management, as well as being notified of critical security events.
+In this 15-20 Minute Theatre session, learn the top five things that you can do to improve the security posture of your Azure IaaS VMs, including secure administration practices, security configuration management, as well as being notified of critical security events.
 
 
 ### [MCO20: Azure Governance and Management](./mco20/README.md) 
