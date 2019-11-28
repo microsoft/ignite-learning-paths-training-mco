@@ -26,7 +26,7 @@ In recent months, Tailwind Traders has been having issues with keeping their spr
 In this session, look into how Tailwind Traders can ensure their VMs are properly managed and maintained with the same care in Azure as they were in Tailwind Trader's on-premises data centers.
 
 
-### [MCO11: Securing Azure IaaS virtual machines](./mco11/README.md) 
+### [MCO11: Securing Azure IaaS virtual machines](./mco11/readme.md) 
 
 In this 15-20 Minute Theatre session, learn the top five things that you can do to improve the security posture of your Azure IaaS VMs, including secure administration practices, security configuration management, as well as being notified of critical security events.
 
