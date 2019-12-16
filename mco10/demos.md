@@ -65,7 +65,7 @@ Introduction. In this demonstration, you will configure Just In Time Access to a
 ---
 
 
-## Demo 3 - Azure IaaS VM and SQL Backup and Recovery
+## Demo 3 & 4 - Azure IaaS VM and SQL Backup and Recovery
 
 > 💡 You must have completed the [deployment](deployment.md) before attempting to do the demo.
 
@@ -135,7 +135,7 @@ Introduction. In this demonstration, you will backup and recover both an Azure I
 ---
 
 
-## Demo 4 - Azure Update Management
+## Demo 5 - Azure Update Management
 
 > 💡 You must have completed the [deployment](deployment.md) before attempting to do the demo.
 
@@ -180,7 +180,7 @@ Introduction. In this demonstration, you will configure and manage Azure Update 
 ---
 
 
-## Demo 5 - Inventory and change tracking.
+## Demo 6 - Inventory and change tracking.
 
 > 💡 You must have completed the [deployment](deployment.md) before attempting to do the demo.
 

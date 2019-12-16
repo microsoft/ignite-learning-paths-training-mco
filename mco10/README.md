@@ -14,7 +14,7 @@ In recent months, Tailwind Traders has been having issues with keeping their spr
 |-------------------|----------------------------------|
 | PowerPoint        | - [Presentation](presentations.md) |
 | Videos            | - [Dry Run Rehearsal](https://globaleventcdn.blob.core.windows.net/assets/mco/mco10/MCO-10-RunThrough.mp4) <br/>- [Microsoft Ignite Orlando Recording](https://globaleventcdn.blob.core.windows.net/assets/mco/mco10/MCO_10_IGNITE.mp4) |
-| Demos             | - [Demo 1 - Azure Bastion](#) <br/>- [Demo 2 - JIT VM Access](#) <br/>- [Demo 3 - Azure Backup VM & SQL](#) <br/>- [Demo 4 - Recover VM & SQL](#) <br/>- [Demo 5 - Update Management](#) <br/>- [Demo 6 - Inventory and Change Tracking](#) |
+| Demos             | - [Demo 1 - Azure Bastion](https://github.com/microsoft/ignite-learning-paths-training-mco/blob/master/mco10/demos.md#demo-1---azure-bastion) <br/>- [Demo 2 - JIT VM Access](https://github.com/microsoft/ignite-learning-paths-training-mco/blob/master/mco10/demos.md#demo-2---just-in-time-access) <br/>- [Demo 3 & 4 - Azure Backup VM & SQL](https://github.com/microsoft/ignite-learning-paths-training-mco/blob/master/mco10/demos.md#demo-3---azure-iaas-vm-and-sql-backup-and-recovery) <br/>- [Demo 5 - Update Management](https://github.com/microsoft/ignite-learning-paths-training-mco/blob/master/mco10/demos.md#demo-5---azure-update-management) <br/>- [Demo 6 - Inventory and Change Tracking](https://github.com/microsoft/ignite-learning-paths-training-mco/blob/master/mco10/demos.md#demo-6---inventory-and-change-tracking) |
 
 
 ## How to use this repository
