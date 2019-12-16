@@ -6,6 +6,14 @@
 
 In recent months, Tailwind Traders has been having issues with keeping their sprawling IaaS VM deployment under control, leading to mismanaged resources and inefficient processes. In this session, look into how Tailwind Traders can ensure their VMs are properly managed and maintained with the same care in Azure as they were in Tailwind Trader's on-premises data centers.
 
+## Table of Contents
+
+| Resources         | Links                            |
+|-------------------|----------------------------------|
+| PowerPoint        | - [Presentation](presentations.md) |
+| Videos            | - [Dry Run Rehearsal](https://globaleventcdn.blob.core.windows.net/assets/mco/mco10/MCO-10-RunThrough.mp4) <br/>- [Microsoft Ignite Orlando Recording](https://globaleventcdn.blob.core.windows.net/assets/mco/mco10/MCO_10_IGNITE.mp4) <br/>- [Director's Cut of Presentation](https://globaleventcdn.blob.core.windows.net/assets/mco/mco10/MCO-10-Director-Cut.mp4) |
+| Demos             | - [Demo 1 - Azure Bastion](https://globaleventcdn.blob.core.windows.net/assets/mco/mco10/DEMO-01-Bastion.mp4)  <br/>- [Demo 2 - JIT VM Access](https://globaleventcdn.blob.core.windows.net/assets/mco/mco10/DEMO-02-JIT-VM-RDP.mp4)  <br/>- [Demo 3 - Azure Backup VM & SQL](https://globaleventcdn.blob.core.windows.net/assets/mco/mco10/DEMO-03-Backup-VM-SQLServer.mp4)  <br/>- [Demo 4 - Recover VM & SQL](https://globaleventcdn.blob.core.windows.net/assets/mco/mco10/DEMO-04-Recover-VM-SQLDatabase.mp4)  <br/>- [Demo 5 - Update Management](https://globaleventcdn.blob.core.windows.net/assets/mco/mco10/DEMO-05-Update-Management.mp4)  <br/>- [Demo 6 - Inventory and Change Tracking](https://globaleventcdn.blob.core.windows.net/assets/mco/mco10/DEMO-06-Enable-Inventory-Change-Tracking.mp4) |
+
 ## Session Story
 
 In this session you’ll demonstrate how Tailwind Traders was able to perform traditional virtual machine management tasks using the tools that are built into Azure. You’ll be using the fictional company “Tailwind Traders” as a narrative device. Tailwind Traders represents “everyone”. In this case they’ve deployed virtual machines to the cloud, but they don’t have much understanding of what they need to do to perform traditional VM management tasks with those resources. They have assumed, incorrectly, that by deploying a VM to the cloud, all of the traditional things, like VM backup and operating system updates are automatically taken care of for them by Microsoft.
