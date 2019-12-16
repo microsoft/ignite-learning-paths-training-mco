@@ -6,6 +6,14 @@
 ## Session Abstract
 Tailwind Traders' deployments are ocuring in an ad hoc manner, primarily driven by lack of protocol and unapproved decisions by various operators or employees. Some deployments even violate the organization's compliance obligations, such as being deployed in a manner that violates PCI DSS rules. After bringing their existing IaaS VM fleet under control, Tailwind Traders  wants to ensure that future deployments comply with policy and organizational requirements. In this session, walk thruogh the processes and technologies that will keep Tailwind Trader's deployments in good standing with the help of Azure Blueprints, Azure Policy, Locks and more.
 
+## Table of Contents
+
+| Resources         | Links                            |
+|-------------------|----------------------------------|
+| PowerPoint        | - [Presentation](presentations.md) |
+| Videos            | - [Dry Run Rehearsal](https://globaleventcdn.blob.core.windows.net/assets/mco/mco20/MCO-20-RUNTHROUGH-1-NOV.mp4) <br/>- [Microsoft Ignite Orlando Recording](https://globaleventcdn.blob.core.windows.net/assets/mco/mco20/MCO_20_IGNITE.mp4) |
+| Demos             | - [Demo 1 - Resource Graph Explorer](https://globaleventcdn.blob.core.windows.net/assets/mco/mco20/MCO-20-DEMO1-RESOURCE-GRAPH.mp4)  <br/>- [Demo 2 - Locks and Tags](https://globaleventcdn.blob.core.windows.net/assets/mco/mco20/MCO-20-DEMO2-LOCKS-TAGS.mp4)  <br/>- [Demo 3 - Tag Remediation](https://globaleventcdn.blob.core.windows.net/assets/mco/mco20/MCO-20-DEMO3a-TAGS-REMEDIATION.mp4)  <br/>- [Demo 4 - PCI DSS Audit](https://globaleventcdn.blob.core.windows.net/assets/mco/mco20/MCO-20-DEMO4-PCI-DSS-AUDIT.mp4)  <br/>- [Demo 5 - PCI DSS Blueprints](https://globaleventcdn.blob.core.windows.net/assets/mco/mco20/MCO-20-DEMO5-PCI-DSS-BLUEPRINTS.mp4)|
+
 ## Session Story
 
 In this session you’ll demonstrate how Tailwind Traders applied governance and management techniquest using the tools that are built into Azure. You’ll be using the fictional company “Tailwind Traders” as a narrative device. Tailwind Traders represents “everyone”. In this case they’ve deployed resources to the cloud, but they don’t have much understanding of what they need to do to ensure that those resources meet the organizations governance and compliance requirements.
