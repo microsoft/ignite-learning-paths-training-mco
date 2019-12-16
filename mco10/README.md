@@ -1,10 +1,36 @@
 # MCO10: IaaS VM Operations
 
-![Learning Path](https://img.shields.io/badge/Learning%20Path-MCO-fe5e00?logo=microsoft) 
+[![Learning Path](https://img.shields.io/badge/Learning%20Path-MCO-fe5e00?logo=microsoft)](https://github.com/microsoft/ignite-learning-paths-training-mco)
+
 
 ## Session Abstract
 
 In recent months, Tailwind Traders has been having issues with keeping their sprawling IaaS VM deployment under control, leading to mismanaged resources and inefficient processes. In this session, look into how Tailwind Traders can ensure their VMs are properly managed and maintained with the same care in Azure as they were in Tailwind Trader's on-premises data centers.
+
+
+## Table of Content
+
+| Resources          | Links                            |
+|-------------------|----------------------------------|
+| PowerPoint        | - [Presentation](presentations.md) |
+| Videos            | - [Dry Run Rehearsal](https://globaleventcdn.blob.core.windows.net/assets/mco/mco10/MCO-10-RunThrough.mp4) <br/>- [Microsoft Ignite Orlando Recording](https://globaleventcdn.blob.core.windows.net/assets/mco/mco10/MCO_10_IGNITE.mp4) |
+| Demos             | - [Demo 1 - Azure Bastion](#) <br/>- [Demo 2 - JIT VM Access](#) <br/>- [Demo 3 - Azure Backup VM & SQL](#) <br/>- [Demo 4 - Recover VM & SQL](#) <br/>- [Demo 5 - Update Management](#) <br/>- [Demo 6 - Inventory and Change Tracking](#) |
+
+
+## How to use this repository
+
+Welcome! 
+
+We're glad you are here and look forward to your delivery of this amazing content. As an experienced presenter, we know you know HOW to present so this guide will focus on WHAT you need to present. It will provide you a full run-through of the presentation created by the presentation design team. 
+
+Along with the video of the presentation, this document will link to all the assets you need to successfully present including PowerPoint slides and demo instructions &
+code.
+
+1.  Read document in its entirety.
+2.  Watch the video presentation
+3.  Ask questions of the Lead Presenter
+
+
 
 ## Session Story
 
@@ -38,16 +64,14 @@ These instructions consist of the steps you should go through in preparing to pr
 
 ### Assets in the Train-the-Trainer Kit
 
-- This guide
-- [Powerpoint Presentation that includes Speaker Notes](https://globaleventcdn.blob.core.windows.net/assets/mco/mco10/mco10.pptx)
+
 - [Demo Lab Instructions](https://globaleventcdn.blob.core.windows.net/assets/mco/mco10/MCO%2010%20LAB%20NOTES-Draft1.docx)
-- [Full Length Recording of Presentation](https://globaleventcdn.blob.core.windows.net/assets/mco/mco10/MCO-10-RunThrough.mp4)
 - [Director's Cut of Presentation](https://globaleventcdn.blob.core.windows.net/assets/mco/mco10/MCO-10-Director-Cut.mp4)
-- [Ignite 2019 Session Presentation](https://globaleventcdn.blob.core.windows.net/assets/mco/mco10/MCO_10_IGNITE.mp4)
+
 
 ### Deployment
 
-Almost all sessoins can be performed from a trial Azure subscription. Instructions for configuring the subscription with specific assets such as Virtual Machines and resource groups can be found in the Demo/Lab instructions document linked above, often in the form of a script that can be run from Cloud Shell. 
+Almost all sessions can be performed from a trial Azure subscription. Instructions for configuring the subscription with specific assets such as Virtual Machines and resource groups can be found in the Demo/Lab instructions document linked above, often in the form of a script that can be run from Cloud Shell. 
 
 ### Demo Videos
 
@@ -58,3 +82,33 @@ Almost all sessoins can be performed from a trial Azure subscription. Instructio
 - [Demo 4: Recover VM & SQL](https://globaleventcdn.blob.core.windows.net/assets/mco/mco10/DEMO-04-Recover-VM-SQLDatabase.mp4)
 - [Demo 5: Update Management](https://globaleventcdn.blob.core.windows.net/assets/mco/mco10/DEMO-05-Update-Management.mp4)
 - [Demo 6: Inventory and Change Tracking](https://globaleventcdn.blob.core.windows.net/assets/mco/mco10/DEMO-06-Enable-Inventory-Change-Tracking.mp4)
+
+
+
+## Become a Trained Presenter
+
+You don't need anything to present this content, it's all there to be used. However, by becoming a *Trained Presenter* the scalable content team will recognize you as well. *Trained Presenter* see their contact information (name, picture, website) in the bottom of each session.  
+ 
+To become a *Trained Presenter*, contact [scalablecontent@microsoft.com](mailto:scalablecontent@microsoft.com). In your email please include:
+
+- Complete name:
+- The code of this presentation: \<Session Code (ex:MCO10)\>
+- Link to an unlisted YouTube video of you presenting around 10 minutes of the content for this specific session.
+
+
+## Trained Presenters
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore -->
+
+<table>
+<tr>
+    <td align="center"><a href="http://orinthomas.com">
+        <img src="https://avatars1.githubusercontent.com/u/44561273?s=460&v=4" width="100px;" alt="Orin-Thomas"/><br />
+        <sub><b>Orin-Thomas</b></sub></a><br />
+            <a href="https://github.com/microsoft/ignite-learning-paths-training-afun/commits?author=Orin-Thomas" title="talk">📢</a>
+            <a href="https://github.com/microsoft/ignite-learning-paths-training-afun/commits?author=Orin-Thomas" title="Documentation">📖</a> 
+    </td>
+</tr></table>
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
