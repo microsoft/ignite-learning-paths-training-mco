@@ -7,6 +7,13 @@
 
 This 20 minute theatre session provides an overview of steps that you can take to improve the security posture of Azure IaaS VMs, including secure administration practices, security configuraiton management, as well as being notified of critical security events.
 
+## Table of Contents
+
+| Resources         | Links                            |
+|-------------------|----------------------------------|
+| PowerPoint        | - [Presentation](presentations.md) |
+| Videos            | - [Microsoft Ignite Orlando Recording](https://globaleventcdn.blob.core.windows.net/assets/mco/mco11/MCO_11_IGNITE.mp4) |
+
 ## Session Story
 
 In this session you’ll cover a collection of steps that you can take to secure IaaS VMs running in Azure. Rather than provide demos, due to the time constraints screenshots have been displayed where appropriate. You'll give a general overview of some important security features and how they can be used to improve the security of IaaS VMs:
