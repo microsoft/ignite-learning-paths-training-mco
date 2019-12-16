@@ -49,7 +49,7 @@ This training repository is divided in to the following sections:
 
 | **Slides** | **Demos** |  
 |-------------------|---------------------------|
-| 22 slides  | 6 demos  |
+| 22 slides  | 0 demos  |
 
 
 
