@@ -65,12 +65,17 @@ Almost all sessions can be performed from a trial Azure subscription. Instructio
 
 ## Demo Videos
 
-- [Demo 1: Azure Bastion](https://globaleventcdn.blob.core.windows.net/assets/mco/mco10/DEMO-01-Bastion.mp4)
-- [Demo 2: JIT VM Access](https://globaleventcdn.blob.core.windows.net/assets/mco/mco10/DEMO-02-JIT-VM-RDP.mp4)
-- [Demo 3: Azure Backup VM & SQL](https://globaleventcdn.blob.core.windows.net/assets/mco/mco10/DEMO-03-Backup-VM-SQLServer.mp4)
-- [Demo 4: Recover VM & SQL](https://globaleventcdn.blob.core.windows.net/assets/mco/mco10/DEMO-04-Recover-VM-SQLDatabase.mp4)
-- [Demo 5: Update Management](https://globaleventcdn.blob.core.windows.net/assets/mco/mco10/DEMO-05-Update-Management.mp4)
-- [Demo 6: Inventory and Change Tracking](https://globaleventcdn.blob.core.windows.net/assets/mco/mco10/DEMO-06-Enable-Inventory-Change-Tracking.mp4)
+- [Demo 1: Create VM using CloudShell](https://globaleventcdn.blob.core.windows.net/assets/mco/mco10/DEMO-01-CREATE-VM-CLOUDSHELL.mp4)
+- [Demo 2: Azure Bastion](https://globaleventcdn.blob.core.windows.net/assets/mco/mco10/DEMO-02-Bastion.mp4)
+- [Demo 3: JIT VM RDP](https://globaleventcdn.blob.core.windows.net/assets/mco/mco10/DEMO-03-JIT-VM-RDP.mp4)
+- [Demo 4: PS Remoting from CloudShell](https://globaleventcdn.blob.core.windows.net/assets/mco/mco10/DEMO-04-PS-Remoting-CloudShell.mp4)
+- [Demo 5: Backup VM & SQL Server](https://globaleventcdn.blob.core.windows.net/assets/mco/mco10/DEMO-05-Backup-VM-SQLServer.mp4)
+- [Demo 6: Recover VM & SQL Database](https://globaleventcdn.blob.core.windows.net/assets/mco/mco10/DEMO-06-Recover-VM-SQLDatabase.mp4)
+- [Demo 7: Resize VM](https://globaleventcdn.blob.core.windows.net/assets/mco/mco10/DEMO-07-RESIZE-VM.mp4)
+- [Demo 8: Update Management](https://globaleventcdn.blob.core.windows.net/assets/mco/mco10/DEMO-08-Update-Management.mp4)
+- [Demo 9A: VM Password Reset](https://globaleventcdn.blob.core.windows.net/assets/mco/mco10/DEMO-09A-VM-PASSWORD-RESET.mp4)
+- [Demo 9B: Inventory & Change Tracking](https://globaleventcdn.blob.core.windows.net/assets/mco/mco10/DEMO-09B-Enable-Inventory-Change-Tracking.mp4)
+- [Demo 9C: VM Auto Shutdown](https://globaleventcdn.blob.core.windows.net/assets/mco/mco10/DEMO-09C-VM-AUTO-SHUTDOWN.mp4)
 
 
 
