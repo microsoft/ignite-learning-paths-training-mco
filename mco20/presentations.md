@@ -1,11 +1,16 @@
 <!--
-This is a machine generated file, and should not be edited, as it will be overwritten with future updates.
+This is a machine generated file,
+and should not be edited,
+as it will be overwritten with future updates.
+
+If you have questions around this process
+please contact Scott Cate
 -->
 
 # MCO20 Presentation Files
 
-- [mco20.pptx](https://globaleventcdn.blob.core.windows.net/assets/mco/mco20/mco20.pptx) (Updated: Nov 13, 2019)
-- [mco20.ja-jp.pptx](https://globaleventcdn.blob.core.windows.net/assets/mco/mco20/mco20.ja-jp.pptx) (Updated: Jan 22, 2020)
+- [mco20.pptx](https://globaleventcdn.blob.core.windows.net/assets/mco/mco20/mco20.pptx) (Updated: Nov 12, 2019)
+- [mco20.ja-jp.pptx](https://globaleventcdn.blob.core.windows.net/assets/mco/mco20/mco20.ja-jp.pptx) (Updated: Jan 21, 2020)
 ---
 ## Historical Files
 - [mco20-2019-10_Oct-24.pptx](https://globaleventcdn.blob.core.windows.net/assets/mco/mco20/mco20-2019-10_Oct-24.pptx)
