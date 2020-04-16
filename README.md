@@ -1,10 +1,10 @@
 # Ignite Learning Paths - Managing Cloud Operations
 
-![Learning Path](https://img.shields.io/badge/Learning%20Path-MCO-fe5e00?logo=microsoft)  ![Session](https://img.shields.io/badge/🗣️Sessions-3-31c754)
+![Learning Path](https://img.shields.io/badge/Learning%20Path-MCO-fe5e00?logo=microsoft) ![Session](https://img.shields.io/badge/🗣️Sessions-3-31c754)
 
 Welcome!
 
-The content of this repository is available for you so you can reproduce any demo or learn how to present any session of the Learning Path presented at [Migrosoft Ignite](https://www.microsoft.com/en-us/ignite) and during [Microsoft Ignite The Tour](https://www.microsoft.com/en-ca/ignite-the-tour/), in your local field office, a community user group, or even as a lunch-and-learn event for your company.
+The content of this repository is available for you so you can reproduce any demo or learn how to present any session of the Learning Path presented at [Microsoft Ignite](https://www.microsoft.com/en-us/ignite) and during [Microsoft Ignite The Tour](https://www.microsoft.com/en-ca/ignite-the-tour/), in your local field office, a community user group, or even as a lunch-and-learn event for your company.
 
 ## Do the Demos
 
@@ -20,39 +20,34 @@ Along with the video of the presentation, this repository will link to all the a
 
 Here all the sessions available in the learning path **Managing Cloud Operations** (aka: **MCO**)
 
-### [MCO10: IaaS VM Operations](./mco10/README.md)  
+### [MCO10: IaaS VM Operations](./mco10/README.md)
 
 In recent months, Tailwind Traders has been having issues with keeping their sprawling IaaS VM deployment under control, leading to mismanaged resources and inefficient processes.  
 In this session, look into how Tailwind Traders can ensure their VMs are properly managed and maintained with the same care in Azure as they were in Tailwind Trader's on-premises data centers.
 
-
-### [MCO11: Securing Azure IaaS virtual machines](./mco11/readme.md) 
+### [MCO11: Securing Azure IaaS virtual machines](./mco11/readme.md)
 
 In this 15-20 Minute Theatre session, learn the top five things that you can do to improve the security posture of your Azure IaaS VMs, including secure administration practices, security configuration management, as well as being notified of critical security events.
 
+### [MCO20: Azure Governance and Management](./mco20/README.md)
 
-### [MCO20: Azure Governance and Management](./mco20/README.md) 
-
-Tailwind Traders’ deployments are occurring in an ad hoc manner, primarily driven by lack of protocol and unapproved decisions by various operators or employees. Some deployments even violate the organization's compliance obligations, such as being deployed in an unencrypted manner without DR protection. After bringing their existing IaaS VM fleet under control, Tailwind Traders wants to ensure future deployments comply with policy and organizational requirements.  
+Tailwind Traders’ deployments are occurring in an ad hoc manner, primarily driven by lack of protocol and unapproved decisions by various operators or employees. Some deployments even violate the organization's compliance obligations, such as being deployed in an unencrypted manner without DR protection. After bringing their existing IaaS VM fleet under control, Tailwind Traders wants to ensure future deployments comply with policy and organizational requirements.
 
 In this session, walk through the processes and technologies that will keep Tailwind Traders’ deployments in good standing with the help of Azure Blueprints, Azure Policy, role-based access control (RBAC), and more.
-
 
 ## Contributing
 
 To know more about about to contribute to this project please refer to the [Code of Conduct](CODE_OF_CONDUCT.md) and [Contributing](CONTRIBUTING.md) page.
 
-
 ## Become a Trained Presenter
 
-You don't need anything to present this content, it's all there to be used. However, by becoming a *Trained Presenter* the scalable content team will recognize you as well. *Trained Presenter* see their contact information (name, picture, website) in the bottom of each session.  
- 
-To become a *Trained Presenter*, contact [scalablecontent@microsoft.com](mailto:scalablecontent@microsoft.com). In your email please include:
+You don't need anything to present this content, it's all there to be used. However, by becoming a _Trained Presenter_ the scalable content team will recognize you as well. _Trained Presenter_ see their contact information (name, picture, website) in the bottom of each session.
+
+To become a _Trained Presenter_, contact [scalablecontent@microsoft.com](mailto:scalablecontent@microsoft.com). In your email please include:
 
 - Complete name:
 - The code of this presentation: \<Session Code (ex:APPS10)\>
 - Link to an unlisted YouTube video of you presenting around 10 minutes of the content for this specific session.
-
 
 ## Legal Notices
 
